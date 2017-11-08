@@ -1,0 +1,4 @@
+D:\Projects\HRRN\HRRN\bin\Debug\HRRN.exe
+D:\Projects\HRRN\HRRN\bin\Debug\HRRN.pdb
+D:\Projects\HRRN\HRRN\obj\x86\Debug\HRRN.exe
+D:\Projects\HRRN\HRRN\obj\x86\Debug\HRRN.pdb

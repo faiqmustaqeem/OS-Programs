@@ -1,0 +1,4 @@
+D:\Projects\SJF\SJF\bin\Debug\SJF.exe
+D:\Projects\SJF\SJF\bin\Debug\SJF.pdb
+D:\Projects\SJF\SJF\obj\x86\Debug\SJF.exe
+D:\Projects\SJF\SJF\obj\x86\Debug\SJF.pdb

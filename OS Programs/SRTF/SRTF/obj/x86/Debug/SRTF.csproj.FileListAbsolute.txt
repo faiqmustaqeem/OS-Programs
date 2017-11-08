@@ -1,0 +1,4 @@
+D:\Projects\SRTF\SRTF\bin\Debug\SRTF.exe
+D:\Projects\SRTF\SRTF\bin\Debug\SRTF.pdb
+D:\Projects\SRTF\SRTF\obj\x86\Debug\SRTF.exe
+D:\Projects\SRTF\SRTF\obj\x86\Debug\SRTF.pdb
